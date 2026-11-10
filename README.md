@@ -31,11 +31,7 @@
 https://snack.expo.dev/@gladys_expo/my-mood---mood-tracker-app
 
 ## Link Google Docs Teori TP10
-
-
-
-
-
+https://docs.google.com/document/d/1bUX-eT32GC3LbP8NCWtO8HEAEpwcGI2k2Lntx2xVJrw/edit?usp=sharing
 
 
 
